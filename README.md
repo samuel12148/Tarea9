@@ -37,6 +37,18 @@ Creacion de archivos necesarios y creacion de la imagen de la pista
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/5b990f13-c3d6-4867-b310-321960d9d2ef" />
 Contenedor de la pista corriendo
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0d141e7d-7963-4e1d-9dfe-bfc4d345fcb3" />
+Creacion de archivos necesarios y creacion de la imagen de el juego anterior
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/1bbe392c-eae6-4e84-a06b-e998b5adc450" />
+A continuacion compilacion del juego corriendo:
+  
+    Menu Para Seleccionar que juego desea jugar el usuario:
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a69312b3-ad0c-4a97-9d70-4f1f801fd746" />
+    Menu para seleccionar la skin del jugador:
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/81ca8f38-851d-4152-8a0c-d5b52e3f5898" />
+    Menu para seleccionar la cancion que desea escuchar el jugador:
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/edb3e339-82ba-4e22-ae35-d578db545c83" />
+    Menu para seleccionar la dificultad:
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/3cddd050-3c87-483c-a394-a5d5a7801e8e" />
 
 
   </div>

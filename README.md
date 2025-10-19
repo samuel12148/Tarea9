@@ -26,7 +26,7 @@
   </div>
 
   <div class="section">
-    <h2> Capturas (imágenes enviadas)</h2>
+    <h2> Capturas</h2>
     Creación del directorio del brazo y creacion del archivo.py y el Dockerfile
 <img width="1600" height="82" alt="image" src="https://github.com/user-attachments/assets/2d525ad2-9bdd-417c-92fe-93e4b9447ee7" />
 Creación de la imagen de Docker

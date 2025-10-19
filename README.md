@@ -25,7 +25,21 @@
     </ul>
   </div>
 
- 
+  <div class="section">
+    <h2> Capturas (imágenes enviadas)</h2>
+    Creación del directorio del brazo y creacion del archivo.py y el Dockerfile
+<img width="1600" height="82" alt="image" src="https://github.com/user-attachments/assets/2d525ad2-9bdd-417c-92fe-93e4b9447ee7" />
+Creación de la imagen de Docker
+<img width="1600" height="647" alt="image" src="https://github.com/user-attachments/assets/c1268a74-9808-4619-bc53-7a6bdaf347c7" />
+Imagen del contenedor del brazo corriendo
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/abf195d0-4f3f-43fe-a13b-38ed4766654a" />
+Creacion de archivos necesarios y creacion de la imagen de la pista
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/5b990f13-c3d6-4867-b310-321960d9d2ef" />
+Contenedor de la pista corriendo
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0d141e7d-7963-4e1d-9dfe-bfc4d345fcb3" />
+
+
+  </div>
 
 </body>
 </html>
